@@ -17,6 +17,7 @@ if (numberA == numberB)
 }
 /*========================================================================================================*/
 // Задание # 4
+Console.WriteLine("Введите 3 числа, чтобы узнать какое из них самое большое");
 int numberA2 = int.Parse(Console.ReadLine());
 int numberB2 = int.Parse(Console.ReadLine());
 int numberC2 = int.Parse(Console.ReadLine());
